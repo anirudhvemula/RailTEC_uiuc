@@ -1,0 +1,1054 @@
+---------------------------------------------------------------------------------
+Processing Car: [BNSF 253639] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 204] [Attr1 = 6] [Attr2 = 3] [Attr3 = 5]
+Now at Axle Ordinal #1 AxleTimeStamp = 0
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 3
+Load Matched:
+--> Unit #1 between [AxleTimeStamp: 0.2565, 2.8026]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.4337
+CargoLength = 53
+Output >> BNSF	253639	S1	53	53	100.00%
+Number of slot is increased to 1
+Raw CargoLength = 53.4337
+CargoLength = 53
+Output >> BNSF	253639	S1	53	53	100.00%
+Number of slot is increased to 2
+Load Matched:
+--> Unit #2 between [AxleTimeStamp: 3.0676, 5.6307]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 54.079
+CargoLength = 53
+Output >> BNSF	253639	S2	53	53	100.00%
+Number of slot is increased to 3
+Raw CargoLength = 54.079
+CargoLength = 53
+Output >> BNSF	253639	S2	53	53	100.00%
+Number of slot is increased to 4
+Load Matched:
+--> Unit #3 between [AxleTimeStamp: 5.9, 8.4588]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.031
+CargoLength = 53
+Output >> BNSF	253639	S3	53	53	100.00%
+Number of slot is increased to 5
+Raw CargoLength = 53.676
+CargoLength = 53
+Output >> BNSF	253639	S3	53	53	100.00%
+Number of slot is increased to 6
+---------------------------------------------------------------------------------
+Processing Car: [BNSF 253418] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 204] [Attr1 = 6] [Attr2 = 3] [Attr3 = 5]
+Now at Axle Ordinal #2 AxleTimeStamp = 9.1054
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 3
+Load Matched:
+--> Unit #4 between [AxleTimeStamp: 9.3577, 11.925]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.999
+CargoLength = 53
+Output >> BNSF	253418	S1	53	53	100.00%
+Number of slot is increased to 7
+Raw CargoLength = 53.999
+CargoLength = 53
+Output >> BNSF	253418	S1	53	53	100.00%
+Number of slot is increased to 8
+Load Matched:
+--> Unit #5 between [AxleTimeStamp: 12.1942, 14.7764]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.756
+CargoLength = 53
+Output >> BNSF	253418	S2	53	53	100.00%
+Number of slot is increased to 9
+Raw CargoLength = 53.756
+CargoLength = 53
+Output >> BNSF	253418	S2	53	53	100.00%
+Number of slot is increased to 10
+Load Matched:
+--> Unit #6 between [AxleTimeStamp: 15.0499, 17.6257]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 54.442
+CargoLength = 53
+Output >> BNSF	253418	S3	53	53	100.00%
+Number of slot is increased to 11
+Raw CargoLength = 54.483
+CargoLength = 53
+Output >> BNSF	253418	S3	53	53	100.00%
+Number of slot is increased to 12
+---------------------------------------------------------------------------------
+Processing Car: [DTTX 724219] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 203] [Attr1 = 6] [Attr2 = 3] [Attr3 = 5]
+Now at Axle Ordinal #3 AxleTimeStamp = 18.268
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 3
+Load Matched:
+--> Unit #7 between [AxleTimeStamp: 18.5288, 21.1046]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.675
+CargoLength = 53
+Output >> DTTX	724219	S1	53	53	100.00%
+Number of slot is increased to 13
+Raw CargoLength = 54.24
+CargoLength = 53
+Output >> DTTX	724219	S1	53	53	100.00%
+Number of slot is increased to 14
+Load Matched:
+--> Unit #8 between [AxleTimeStamp: 21.3738, 23.973]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 54.079
+CargoLength = 53
+Output >> DTTX	724219	S2	53	53	100.00%
+Number of slot is increased to 15
+Raw CargoLength = 54.039
+CargoLength = 53
+Output >> DTTX	724219	S2	53	53	100.00%
+Number of slot is increased to 16
+Load Matched:
+--> Unit #9 between [AxleTimeStamp: 24.2464, 26.8307]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.7959999999999
+CargoLength = 53
+Output >> DTTX	724219	S3	53	53	100.00%
+Number of slot is increased to 17
+Raw CargoLength = 53.958
+CargoLength = 53
+Output >> DTTX	724219	S3	53	53	100.00%
+Number of slot is increased to 18
+---------------------------------------------------------------------------------
+Processing Car: [BRAN 7396] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 204] [Attr1 = 6] [Attr2 = 3] [Attr3 = 5]
+Now at Axle Ordinal #4 AxleTimeStamp = 27.4731
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 3
+Load Matched:
+--> Unit #10 between [AxleTimeStamp: 27.7254, 30.3372]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.394
+CargoLength = 53
+Output >> BRAN	7396	S1	53	53	100.00%
+Number of slot is increased to 19
+Raw CargoLength = 53.6360000000001
+CargoLength = 53
+Output >> BRAN	7396	S1	53	53	100.00%
+Number of slot is increased to 20
+Load Matched:
+--> Unit #11 between [AxleTimeStamp: 30.6064, 33.2225]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.636
+CargoLength = 53
+Output >> BRAN	7396	S2	53	53	100.00%
+Number of slot is increased to 21
+Raw CargoLength = 53.8779999999999
+CargoLength = 53
+Output >> BRAN	7396	S2	53	53	100.00%
+Number of slot is increased to 22
+Load Matched:
+--> Unit #12 between [AxleTimeStamp: 33.496, 36.1142]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.595
+CargoLength = 53
+Output >> BRAN	7396	S3	53	53	100.00%
+Number of slot is increased to 23
+Raw CargoLength = 53.595
+CargoLength = 53
+Output >> BRAN	7396	S3	53	53	100.00%
+Number of slot is increased to 24
+---------------------------------------------------------------------------------
+Processing Car: [DTTX 645141] Number of Axles: 4
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 76] [Attr1 = 6] [Attr2 = 1] [Attr3 = 5]
+Now at Axle Ordinal #5 AxleTimeStamp = 36.7481
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 1
+Load Matched:
+--> Unit #13 between [AxleTimeStamp: 37.0088, 39.591]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.111
+CargoLength = 53
+Output >> DTTX	645141	S1	53	53	100.00%
+Number of slot is increased to 25
+Raw CargoLength = 53.6750000000001
+CargoLength = 53
+Output >> DTTX	645141	S1	53	53	100.00%
+Number of slot is increased to 26
+---------------------------------------------------------------------------------
+Processing Car: [FEC 72448] Number of Axles: 4
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 76] [Attr1 = 6] [Attr2 = 1] [Attr3 = 5]
+Now at Axle Ordinal #6 AxleTimeStamp = 40.2376
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 1
+Load Matched:
+--> Unit #14 between [AxleTimeStamp: 40.5026, 43.0869]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 52.7479999999999
+CargoLength = 53
+Output >> FEC	72448	S1	53	53	100.00%
+Number of slot is increased to 27
+Raw CargoLength = 53.7159999999999
+CargoLength = 53
+Output >> FEC	72448	S1	53	53	100.00%
+Number of slot is increased to 28
+---------------------------------------------------------------------------------
+Processing Car: [DTTX 721560] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 203] [Attr1 = 6] [Attr2 = 3] [Attr3 = 5]
+Now at Axle Ordinal #7 AxleTimeStamp = 43.725
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 3
+Load Matched:
+--> Unit #15 between [AxleTimeStamp: 43.9773, 46.6018]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.071
+CargoLength = 53
+Output >> DTTX	721560	S1	53	53	100.00%
+Number of slot is increased to 29
+Raw CargoLength = 53.6759999999999
+CargoLength = 53
+Output >> DTTX	721560	S1	53	53	100.00%
+Number of slot is increased to 30
+Load Matched:
+--> Unit #16 between [AxleTimeStamp: 46.8753, 49.5168]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 54
+CargoLength = 53
+Output >> DTTX	721560	S2	53	53	100.00%
+Number of slot is increased to 31
+Raw CargoLength = 53.9200000000001
+CargoLength = 53
+Output >> DTTX	721560	S2	53	53	100.00%
+Number of slot is increased to 32
+Load Matched:
+--> Unit #17 between [AxleTimeStamp: 49.7946, 52.4361]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.9200000000001
+CargoLength = 53
+Output >> DTTX	721560	S3	53	53	100.00%
+Number of slot is increased to 33
+Raw CargoLength = 53.96
+CargoLength = 53
+Output >> DTTX	721560	S3	53	53	100.00%
+Number of slot is increased to 34
+---------------------------------------------------------------------------------
+Processing Car: [DTTX 646681] Number of Axles: 4
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 76] [Attr1 = 6] [Attr2 = 1] [Attr3 = 5]
+Now at Axle Ordinal #8 AxleTimeStamp = 53.0827
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 1
+Load Matched:
+--> Unit #18 between [AxleTimeStamp: 53.3392, 55.9722]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.4300000000001
+CargoLength = 53
+Output >> DTTX	646681	S1	53	53	100.00%
+Number of slot is increased to 35
+Raw CargoLength = 53.99
+CargoLength = 53
+Output >> DTTX	646681	S1	53	53	100.00%
+Number of slot is increased to 36
+---------------------------------------------------------------------------------
+Processing Car: [BNSF 211024] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 204] [Attr1 = 6] [Attr2 = 3] [Attr3 = 5]
+Now at Axle Ordinal #9 AxleTimeStamp = 56.6422
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 3
+Load Matched:
+--> Unit #19 between [AxleTimeStamp: 56.8987, 59.5572]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 54.0799999999999
+CargoLength = 53
+Output >> BNSF	211024	S1	53	53	100.00%
+Number of slot is increased to 37
+Raw CargoLength = 53.8399999999999
+CargoLength = 53
+Output >> BNSF	211024	S1	53	53	100.00%
+Number of slot is increased to 38
+Load Matched:
+--> Unit #20 between [AxleTimeStamp: 59.8391, 62.523]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 54
+CargoLength = 53
+Output >> BNSF	211024	S2	53	53	100.00%
+Number of slot is increased to 39
+Raw CargoLength = 53.9200000000001
+CargoLength = 53
+Output >> BNSF	211024	S2	53	53	100.00%
+Number of slot is increased to 40
+Load Matched:
+--> Unit #21 between [AxleTimeStamp: 62.8092, 65.4868]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.6800000000001
+CargoLength = 53
+Output >> BNSF	211024	S3	53	53	100.00%
+Number of slot is increased to 41
+Raw CargoLength = 53.9200000000001
+CargoLength = 53
+Output >> BNSF	211024	S3	53	53	100.00%
+Number of slot is increased to 42
+---------------------------------------------------------------------------------
+Processing Car: [DTTX 645325] Number of Axles: 4
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 76] [Attr1 = 6] [Attr2 = 1] [Attr3 = 5]
+Now at Axle Ordinal #10 AxleTimeStamp = 66.1546
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 1
+Load Matched:
+--> Unit #22 between [AxleTimeStamp: 66.4196, 69.0887]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.6800000000001
+CargoLength = 53
+Output >> DTTX	645325	S1	53	53	100.00%
+Number of slot is increased to 43
+Raw CargoLength = 53.8399999999999
+CargoLength = 53
+Output >> DTTX	645325	S1	53	53	100.00%
+Number of slot is increased to 44
+---------------------------------------------------------------------------------
+Processing Car: [DTTX 680476] Number of Axles: 4
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 76] [Attr1 = 6] [Attr2 = 1] [Attr3 = 5]
+Now at Axle Ordinal #11 AxleTimeStamp = 69.748
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 1
+Load Matched:
+--> Unit #23 between [AxleTimeStamp: 70.0257, 72.7202]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.6700000000001
+CargoLength = 53
+Output >> DTTX	680476	S1	53	53	100.00%
+Number of slot is increased to 45
+Raw CargoLength = 53.6300000000001
+CargoLength = 53
+Output >> DTTX	680476	S1	53	53	100.00%
+Number of slot is increased to 46
+---------------------------------------------------------------------------------
+Processing Car: [FEC 70905] Number of Axles: 4
+Car found in UMLER. Car Info:
+--> [CarType = S] [CarLength = 76] [Attr1 = 6] [Attr2 = 1] [Attr3 = 5]
+Now at Axle Ordinal #12 AxleTimeStamp = 73.3838
+Best Load information:
+--> [BestUpper = 53] [BestLower = 53] [Base = 0]
+Number of well = 1
+Load Matched:
+--> Unit #24 between [AxleTimeStamp: 73.6446, 76.3391]
+Load fit as DoubleStackedContainers.
+Raw CargoLength = 53.6700000000001
+CargoLength = 53
+Output >> FEC	70905	S1	53	53	100.00%
+Number of slot is increased to 47
+Raw CargoLength = 53.8299999999999
+CargoLength = 53
+Output >> FEC	70905	S1	53	53	100.00%
+Number of slot is increased to 48
+---------------------------------------------------------------------------------
+Processing Car: [TTEX 161197] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 185] [Attr1 = 1] [Attr2 = 2] [Attr3 = 7]
+Now at Axle Ordinal #13 AxleTimeStamp = 77.3164
+Best Load information:
+--> [Best = 180] [Base = 2]
+Handling Type Q Base 2 Case.
+Automatically assume Number of Well = 2.
+Layout: AxlesNum = (# of Well) * 4
+Load Matched:
+--> Unit #25 between [AxleTimeStamp: 77.5899, 80.4688]
+Load fit as Trailer.
+Raw CargoLength = 52.3899999999999
+CargoLength = 53
+Current Accumulated CargoLength = 53
+Load Matched:
+--> Unit #26 between [AxleTimeStamp: 77.5899, 82.0122]
+Load fit as Trailer.
+Raw CargoLength = 52.8800000000001
+CargoLength = 53
+Current Accumulated CargoLength = 106
+Load Matched:
+--> Unit #27 between [AxleTimeStamp: 77.5899, 84.8869]
+Load fit as Trailer.
+Raw CargoLength = 52.2299999999998
+CargoLength = 53
+Current Accumulated CargoLength = 159
+Output >> TTEX	161197	Q2	180	159	88.33%
+Number of slot is increased to 49
+Current Accumulated AeroScore = 4888.33
+---------------------------------------------------------------------------------
+Processing Car: [TTRX 370033] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #14 AxleTimeStamp = 85.86
+Best Load information not found. Car ignored.
+Handling Type Q Base 2 Case.
+Automatically assume Number of Well = 2.
+Layout: AxlesNum = (# of Well) * 4
+Load Matched:
+--> Unit #28 between [AxleTimeStamp: 86.1377, 88.6096]
+Load fit as Trailer.
+Raw CargoLength = 47.5899999999999
+CargoLength = 48
+Current Accumulated CargoLength = 48
+Load Matched:
+--> Unit #29 between [AxleTimeStamp: 86.1377, 91.8002]
+Load fit as Trailer.
+Raw CargoLength = 48.0699999999999
+CargoLength = 48
+Current Accumulated CargoLength = 149
+Load Matched:
+--> Unit #30 between [AxleTimeStamp: 86.1377, 94.2934]
+Load fit as Trailer.
+Raw CargoLength = 52.8
+CargoLength = 53
+Current Accumulated CargoLength = 202
+Output >> TTRX	370033	Q2	180	202	100.00%
+Number of slot is increased to 50
+Current Accumulated AeroScore = 4988.33
+---------------------------------------------------------------------------------
+Processing Car: [TTRX 552149] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #15 AxleTimeStamp = 94.9484
+Best Load information not found. Car ignored.
+Handling Type Q Base 2 Case.
+Automatically assume Number of Well = 2.
+Layout: AxlesNum = (# of Well) * 4
+Load Matched:
+--> Unit #31 between [AxleTimeStamp: 95.2219, 97.7172]
+Load fit as Trailer.
+Raw CargoLength = 53.3600000000001
+CargoLength = 53
+Current Accumulated CargoLength = 53
+Load Matched:
+--> Unit #32 between [AxleTimeStamp: 95.2219, 100.9226]
+Load fit as Trailer.
+Raw CargoLength = 53.9700000000003
+CargoLength = 53
+Current Accumulated CargoLength = 159
+Load Matched:
+--> Unit #33 between [AxleTimeStamp: 95.2219, 103.4327]
+Load fit as Trailer.
+Raw CargoLength = 53.6100000000001
+CargoLength = 53
+Current Accumulated CargoLength = 212
+Output >> TTRX	552149	Q2	180	212	100.00%
+Number of slot is increased to 51
+Current Accumulated AeroScore = 5088.33
+---------------------------------------------------------------------------------
+Processing Car: [TTAX 355086] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 177] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #16 AxleTimeStamp = 104.0814
+Best Load information not found. Car ignored.
+Handling Type Q Base 2 Case.
+Automatically assume Number of Well = 2.
+Layout: AxlesNum = (# of Well) * 4
+Load Matched:
+--> Unit #34 between [AxleTimeStamp: 104.3676, 106.6996]
+Load fit as Trailer.
+Raw CargoLength = 52.6699999999996
+CargoLength = 53
+Current Accumulated CargoLength = 53
+Load Matched:
+--> Unit #35 between [AxleTimeStamp: 104.3676, 109.7142]
+Load fit as Trailer.
+Raw CargoLength = 106.36
+CargoLength = 57
+Current Accumulated CargoLength = 163
+Current Accumulated CargoLength = 163
+Output >> TTAX	355086	Q0	180	0	0%	EMPTY
+Output >> TTAX	355086	Q2	180	163	90.56%
+Number of slot is increased to 52
+Current Accumulated AeroScore = 5178.89
+---------------------------------------------------------------------------------
+Processing Car: [TTRX 552499] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #17 AxleTimeStamp = 112.7119
+Best Load information not found. Car ignored.
+Handling Type Q Base 2 Case.
+Automatically assume Number of Well = 2.
+Layout: AxlesNum = (# of Well) * 4
+Load Matched:
+--> Unit #36 between [AxleTimeStamp: 112.996, 115.5061]
+Load fit as Trailer.
+Raw CargoLength = 52.96
+CargoLength = 53
+Current Accumulated CargoLength = 53
+Load Matched:
+--> Unit #37 between [AxleTimeStamp: 112.996, 118.7476]
+Load fit as Trailer.
+Raw CargoLength = 53.6800000000003
+CargoLength = 53
+Current Accumulated CargoLength = 159
+Load Matched:
+--> Unit #38 between [AxleTimeStamp: 112.996, 121.2704]
+Load fit as Trailer.
+Raw CargoLength = 53.4499999999998
+CargoLength = 53
+Current Accumulated CargoLength = 212
+Output >> TTRX	552499	Q2	180	212	100.00%
+Number of slot is increased to 53
+Current Accumulated AeroScore = 5278.89
+---------------------------------------------------------------------------------
+Processing Car: [TTRX 370438] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #18 AxleTimeStamp = 121.936
+Best Load information not found. Car ignored.
+Handling Type Q Base 2 Case.
+Automatically assume Number of Well = 2.
+Layout: AxlesNum = (# of Well) * 4
+Load Matched:
+--> Unit #39 between [AxleTimeStamp: 122.2138, 124.7387]
+Load fit as Trailer.
+Raw CargoLength = 53.6400000000003
+CargoLength = 53
+Current Accumulated CargoLength = 53
+Load Matched:
+--> Unit #40 between [AxleTimeStamp: 122.2138, 127.9865]
+Load fit as Trailer.
+Raw CargoLength = 53.8899999999999
+CargoLength = 53
+Current Accumulated CargoLength = 159
+Load Matched:
+--> Unit #41 between [AxleTimeStamp: 122.2138, 130.5114]
+Load fit as Trailer.
+Raw CargoLength = 53.21
+CargoLength = 53
+Current Accumulated CargoLength = 212
+Output >> TTRX	370438	Q2	180	212	100.00%
+Number of slot is increased to 54
+Current Accumulated AeroScore = 5378.89
+---------------------------------------------------------------------------------
+Processing Car: [TTRX 552157] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #19 AxleTimeStamp = 131.1792
+Best Load information not found. Car ignored.
+Handling Type Q Base 2 Case.
+Automatically assume Number of Well = 2.
+Layout: AxlesNum = (# of Well) * 4
+Load Matched:
+--> Unit #42 between [AxleTimeStamp: 131.4633, 133.9946]
+Load fit as Trailer.
+Raw CargoLength = 53.3600000000001
+CargoLength = 53
+Current Accumulated CargoLength = 53
+Load Matched:
+--> Unit #43 between [AxleTimeStamp: 131.4633, 137.2361]
+Load fit as Trailer.
+Raw CargoLength = 53.8500000000004
+CargoLength = 53
+Current Accumulated CargoLength = 159
+Load Matched:
+--> Unit #44 between [AxleTimeStamp: 131.4633, 139.7695]
+Load fit as Trailer.
+Raw CargoLength = 53.8099999999999
+CargoLength = 53
+Current Accumulated CargoLength = 212
+Output >> TTRX	552157	Q2	180	212	100.00%
+Number of slot is increased to 55
+Current Accumulated AeroScore = 5478.89
+---------------------------------------------------------------------------------
+Processing Car: [TTAX 653476] Number of Axles: 12
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 290] [Attr1 = 7] [Attr2 = 5] [Attr3 = 2]
+Now at Axle Ordinal #20 AxleTimeStamp = 140.4415
+Best Load information:
+--> [Best = 53] [Base = 0]
+Handling Type Q Base 0 case.
+Number of well = 5
+Load Matched:
+--> Unit #45 between [AxleTimeStamp: 140.715, 143.0703]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 53
+CargoLength = 53
+Output >> TTAX	653476	Q1	53	53	100.00%
+Number of slot is increased to 56
+Current Accumulated AeroScore = 5578.89
+Layout: AxlesNum = (# of Well) * 2 + 2
+Output >> TTAX	653476	Q2	53	0	0%	EMPTY
+Number of slot is increased to 57
+Load Matched:
+--> Unit #46 between [AxleTimeStamp: 146.0977, 148.5823]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 53.1199999999999
+CargoLength = 53
+Output >> TTAX	653476	Q3	53	53	100.00%
+Number of slot is increased to 58
+Current Accumulated AeroScore = 5678.89
+Layout: AxlesNum = (# of Well) * 2 + 2
+Output >> TTAX	653476	Q4	53	0	0%	EMPTY
+Number of slot is increased to 59
+Output >> TTAX	653476	Q5	53	0	0%	EMPTY
+Number of slot is increased to 60
+---------------------------------------------------------------------------------
+Processing Car: [TTAX 554620] Number of Axles: 12
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 290] [Attr1 = 7] [Attr2 = 5] [Attr3 = 2]
+Now at Axle Ordinal #21 AxleTimeStamp = 154.6222
+Best Load information:
+--> [Best = 53] [Base = 0]
+Handling Type Q Base 0 case.
+Number of well = 5
+Skipping Load Unit #47 for Axle Ordinal #21 AxleTimeStamp = 154.8999
+Load Matched:
+--> Unit #48 between [AxleTimeStamp: 154.8999, 157.2404]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 53.52
+CargoLength = 53
+Output >> TTAX	554620	Q1	53	53	100.00%
+Number of slot is increased to 61
+Current Accumulated AeroScore = 5778.89
+Load Matched:
+--> Unit #49 between [AxleTimeStamp: 157.5245, 159.9879]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 50.98
+CargoLength = 53
+Output >> TTAX	554620	Q2	53	53	100.00%
+Number of slot is increased to 62
+Current Accumulated AeroScore = 5878.89
+Layout: AxlesNum = (# of Well) * 2 + 2
+Output >> TTAX	554620	Q3	53	0	0%	EMPTY
+Number of slot is increased to 63
+Load Matched:
+--> Unit #50 between [AxleTimeStamp: 163.0238, 165.4787]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 156.54
+CargoLength = 57
+Output >> TTAX	554620	Q4	53	57	100.00%
+Number of slot is increased to 64
+Current Accumulated AeroScore = 5978.89
+Output >> TTAX	554620	Q5	53	0	0%	EMPTY
+Number of slot is increased to 65
+---------------------------------------------------------------------------------
+Processing Car: [TTRX 371115] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #22 AxleTimeStamp = 168.7626
+Best Load information not found. Car ignored.
+Handling Type Q Base 0 case.
+Number of well = 3
+Load Matched:
+--> Unit #51 between [AxleTimeStamp: 169.0403, 171.5568]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 51.0999999999999
+CargoLength = 53
+Output >> Slot #1 on TTRX371115 is ignored due to missing best load information.
+Load Matched:
+--> Unit #52 between [AxleTimeStamp: 171.8302, 174.5014]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 27.02
+CargoLength = 53
+Output >> Slot #2 on TTRX371115 is ignored due to missing best load information.
+Skipping Load Unit #53 for Axle Ordinal #22 AxleTimeStamp = 174.7749
+Load Matched:
+--> Unit #54 between [AxleTimeStamp: 174.7749, 177.2808]
+Load fit as Trailer.
+Raw CargoLength = 55.7399999999998
+CargoLength = 57
+Output >> Slot #3 on TTRX371115 is ignored due to missing best load information.
+---------------------------------------------------------------------------------
+Processing Car: [FEC 300671] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #23 AxleTimeStamp = 177.9422
+Best Load information not found. Car ignored.
+Handling Type Q Base 0 case.
+Number of well = 3
+Load Matched:
+--> Unit #55 between [AxleTimeStamp: 178.2199, 180.7258]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 47.1499999999996
+CargoLength = 53
+Output >> Slot #1 on FEC300671 is ignored due to missing best load information.
+Load Matched:
+--> Unit #56 between [AxleTimeStamp: 181.0035, 183.6598]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 46.5500000000002
+CargoLength = 53
+Output >> Slot #2 on FEC300671 is ignored due to missing best load information.
+Load Matched:
+--> Unit #57 between [AxleTimeStamp: 183.9333, 186.4349]
+Load fit as Trailer.
+Raw CargoLength = 48.8799999999997
+CargoLength = 53
+Output >> Slot #3 on FEC300671 is ignored due to missing best load information.
+---------------------------------------------------------------------------------
+Processing Car: [TTAX 553297] Number of Axles: 12
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 290] [Attr1 = 7] [Attr2 = 5] [Attr3 = 2]
+Now at Axle Ordinal #24 AxleTimeStamp = 187.0964
+Best Load information:
+--> [Best = 53] [Base = 0]
+Handling Type Q Base 0 case.
+Number of well = 5
+Load Matched:
+--> Unit #58 between [AxleTimeStamp: 187.3656, 189.6976]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 51.5799999999999
+CargoLength = 53
+Output >> TTAX	553297	Q1	53	53	100.00%
+Number of slot is increased to 66
+Current Accumulated AeroScore = 6078.89
+Load Matched:
+--> Unit #59 between [AxleTimeStamp: 189.9626, 192.4091]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 53.3600000000001
+CargoLength = 53
+Output >> TTAX	553297	Q2	53	53	100.00%
+Number of slot is increased to 67
+Current Accumulated AeroScore = 6178.89
+Layout: AxlesNum = (# of Well) * 2 + 2
+Output >> TTAX	553297	Q3	53	0	0%	EMPTY
+Number of slot is increased to 68
+Load Matched:
+--> Unit #60 between [AxleTimeStamp: 195.4004, 197.8342]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 158.55
+CargoLength = 57
+Output >> TTAX	553297	Q4	53	57	100.00%
+Number of slot is increased to 69
+Current Accumulated AeroScore = 6278.89
+Output >> TTAX	553297	Q5	53	0	0%	EMPTY
+Number of slot is increased to 70
+---------------------------------------------------------------------------------
+Processing Car: [TTAX 554654] Number of Axles: 12
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 290] [Attr1 = 7] [Attr2 = 5] [Attr3 = 2]
+Now at Axle Ordinal #25 AxleTimeStamp = 201.0799
+Best Load information:
+--> [Best = 53] [Base = 0]
+Handling Type Q Base 0 case.
+Number of well = 5
+Load Matched:
+--> Unit #61 between [AxleTimeStamp: 201.3449, 203.6472]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 101.52
+CargoLength = 57
+Output >> TTAX	554654	Q1	53	57	100.00%
+Number of slot is increased to 71
+Current Accumulated AeroScore = 6378.89
+Layout: AxlesNum = (# of Well) * 2 + 2
+Output >> TTAX	554654	Q2	53	0	0%	EMPTY
+Number of slot is increased to 72
+Load Matched:
+--> Unit #62 between [AxleTimeStamp: 206.6173, 209.0341]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 101.32
+CargoLength = 57
+Output >> TTAX	554654	Q3	53	57	100.00%
+Number of slot is increased to 73
+Current Accumulated AeroScore = 6478.89
+Layout: AxlesNum = (# of Well) * 2 + 2
+Output >> TTAX	554654	Q4	53	0	0%	EMPTY
+Number of slot is increased to 74
+Load Matched:
+--> Unit #63 between [AxleTimeStamp: 212, 214.3023]
+Load fit as Trailer.
+Raw CargoLength = 50.9899999999998
+CargoLength = 53
+Output >> TTAX	554654	Q5	53	53	100.00%
+Number of slot is increased to 75
+Current Accumulated AeroScore = 6578.89
+---------------------------------------------------------------------------------
+Processing Car: [TTAX 355127] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 177] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #26 AxleTimeStamp = 214.9468
+Best Load information not found. Car ignored.
+Handling Type Q Base 0 case.
+Number of well = 3
+Load Matched:
+--> Unit #64 between [AxleTimeStamp: 215.2118, 217.5014]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 52.6700000000001
+CargoLength = 53
+Output >> Slot #1 on TTAX355127 is ignored due to missing best load information.
+Load Matched:
+--> Unit #65 between [AxleTimeStamp: 217.7706, 220.1811]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 48.8400000000001
+CargoLength = 53
+Output >> Slot #2 on TTAX355127 is ignored due to missing best load information.
+Load Matched:
+--> Unit #66 between [AxleTimeStamp: 220.4546, 222.7314]
+Load fit as Trailer.
+Raw CargoLength = 51.8299999999999
+CargoLength = 53
+Output >> Slot #3 on TTAX355127 is ignored due to missing best load information.
+---------------------------------------------------------------------------------
+Processing Car: [TTAX 556687] Number of Axles: 12
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 299] [Attr1 = 7] [Attr2 = 5] [Attr3 = 2]
+Now at Axle Ordinal #27 AxleTimeStamp = 223.4968
+Best Load information:
+--> [Best = 53] [Base = 0]
+Handling Type Q Base 0 case.
+Number of well = 5
+Load Matched:
+--> Unit #67 between [AxleTimeStamp: 223.7745, 226.0683]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 52.2700000000004
+CargoLength = 53
+Output >> TTAX	556687	Q1	53	53	100.00%
+Number of slot is increased to 76
+Current Accumulated AeroScore = 6678.89
+Load Matched:
+--> Unit #68 between [AxleTimeStamp: 226.3333, 228.7862]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 53.0799999999999
+CargoLength = 53
+Output >> TTAX	556687	Q2	53	53	100.00%
+Number of slot is increased to 77
+Current Accumulated AeroScore = 6778.89
+Layout: AxlesNum = (# of Well) * 2 + 2
+Output >> TTAX	556687	Q3	53	0	0%	EMPTY
+Number of slot is increased to 78
+Load Matched:
+--> Unit #69 between [AxleTimeStamp: 231.7669, 234.2218]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 162.75
+CargoLength = 57
+Output >> TTAX	556687	Q4	53	57	100.00%
+Number of slot is increased to 79
+Current Accumulated AeroScore = 6878.89
+Output >> TTAX	556687	Q5	53	0	0%	EMPTY
+Number of slot is increased to 80
+---------------------------------------------------------------------------------
+Processing Car: [TTRX 360096] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #28 AxleTimeStamp = 237.5545
+Best Load information not found. Car ignored.
+Handling Type Q Base 0 case.
+Number of well = 3
+Load Matched:
+--> Unit #70 between [AxleTimeStamp: 237.8195, 240.2829]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 51.79
+CargoLength = 53
+Output >> Slot #1 on TTRX360096 is ignored due to missing best load information.
+Load Matched:
+--> Unit #71 between [AxleTimeStamp: 240.5479, 243.1704]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 51.9899999999998
+CargoLength = 53
+Output >> Slot #2 on TTRX360096 is ignored due to missing best load information.
+Load Matched:
+--> Unit #72 between [AxleTimeStamp: 243.4354, 245.903]
+Load fit as Trailer.
+Raw CargoLength = 52.0299999999997
+CargoLength = 53
+Output >> Slot #3 on TTRX360096 is ignored due to missing best load information.
+---------------------------------------------------------------------------------
+Processing Car: [TTRX 370084] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #29 AxleTimeStamp = 246.5518
+Best Load information not found. Car ignored.
+Handling Type Q Base 0 case.
+Number of well = 3
+Load Matched:
+--> Unit #73 between [AxleTimeStamp: 246.821, 249.2887]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 51.5099999999993
+CargoLength = 53
+Output >> Slot #1 on TTRX370084 is ignored due to missing best load information.
+Load Matched:
+--> Unit #74 between [AxleTimeStamp: 249.5579, 252.1804]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 52.5500000000002
+CargoLength = 53
+Output >> Slot #2 on TTRX370084 is ignored due to missing best load information.
+Load Matched:
+--> Unit #75 between [AxleTimeStamp: 252.4538, 254.9215]
+Load fit as Trailer.
+Raw CargoLength = 52.4700000000003
+CargoLength = 53
+Output >> Slot #3 on TTRX370084 is ignored due to missing best load information.
+---------------------------------------------------------------------------------
+Processing Car: [TTRX 370002] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #30 AxleTimeStamp = 255.5787
+Best Load information not found. Car ignored.
+Handling Type Q Base 0 case.
+Number of well = 3
+Load Matched:
+--> Unit #76 between [AxleTimeStamp: 255.848, 258.3199]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 47.2399999999998
+CargoLength = 53
+Output >> Slot #1 on TTRX370002 is ignored due to missing best load information.
+Load Matched:
+--> Unit #77 between [AxleTimeStamp: 258.5976, 261.2179]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 47.1899999999996
+CargoLength = 53
+Output >> Slot #2 on TTRX370002 is ignored due to missing best load information.
+Load Matched:
+--> Unit #78 between [AxleTimeStamp: 261.4829, 263.9633]
+Load fit as Trailer.
+Raw CargoLength = 47.5999999999995
+CargoLength = 53
+Output >> Slot #3 on TTRX370002 is ignored due to missing best load information.
+---------------------------------------------------------------------------------
+Processing Car: [TTRX 370797] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 189] [Attr1 = 7] [Attr2 = 3] [Attr3 = 0]
+Now at Axle Ordinal #31 AxleTimeStamp = 264.6184
+Best Load information not found. Car ignored.
+Handling Type Q Base 0 case.
+Number of well = 3
+Load Matched:
+--> Unit #79 between [AxleTimeStamp: 264.8919, 267.3723]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 57.1200000000008
+CargoLength = 57
+Output >> Slot #1 on TTRX370797 is ignored due to missing best load information.
+Load Matched:
+--> Unit #80 between [AxleTimeStamp: 267.65, 270.2915]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 46.0199999999995
+CargoLength = 53
+Output >> Slot #2 on TTRX370797 is ignored due to missing best load information.
+Load Matched:
+--> Unit #81 between [AxleTimeStamp: 270.5523, 273.0369]
+Load fit as Trailer.
+Raw CargoLength = 47.71
+CargoLength = 53
+Output >> Slot #3 on TTRX370797 is ignored due to missing best load information.
+---------------------------------------------------------------------------------
+Processing Car: [TTEX 354046] Number of Axles: 8
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 185] [Attr1 = 1] [Attr2 = 2] [Attr3 = 8]
+Now at Axle Ordinal #32 AxleTimeStamp = 274.0015
+Best Load information:
+--> [Best = 160] [Base = 2]
+Handling Type Q Base 2 Case.
+Automatically assume Number of Well = 2.
+Layout: AxlesNum = (# of Well) * 4
+Load Matched:
+--> Unit #82 between [AxleTimeStamp: 274.275, 277.1815]
+Load fit as Trailer.
+Raw CargoLength = 53.8800000000001
+CargoLength = 53
+Current Accumulated CargoLength = 53
+Load Matched:
+--> Unit #83 between [AxleTimeStamp: 274.275, 278.7334]
+Load fit as Trailer.
+Raw CargoLength = 47.6800000000003
+CargoLength = 48
+Current Accumulated CargoLength = 154
+Load Matched:
+--> Unit #84 between [AxleTimeStamp: 274.275, 281.6314]
+Load fit as Trailer.
+Raw CargoLength = 54.5299999999997
+CargoLength = 53
+Current Accumulated CargoLength = 207
+Output >> TTEX	354046	Q2	160	207	100.00%
+Number of slot is increased to 81
+Current Accumulated AeroScore = 6978.89
+---------------------------------------------------------------------------------
+Processing Car: [TTAX 653182] Number of Axles: 12
+Car found in UMLER. Car Info:
+--> [CarType = Q] [CarLength = 290] [Attr1 = 7] [Attr2 = 5] [Attr3 = 2]
+Now at Axle Ordinal #33 AxleTimeStamp = 282.6002
+Best Load information:
+--> [Best = 53] [Base = 0]
+Handling Type Q Base 0 case.
+Number of well = 5
+Load Matched:
+--> Unit #85 between [AxleTimeStamp: 282.8822, 285.193]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 51.9500000000007
+CargoLength = 53
+Output >> TTAX	653182	Q1	53	53	100.00%
+Number of slot is increased to 82
+Current Accumulated AeroScore = 7078.89
+Load Matched:
+--> Unit #86 between [AxleTimeStamp: 285.475, 287.9087]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 51.9899999999998
+CargoLength = 53
+Output >> TTAX	653182	Q2	53	53	100.00%
+Number of slot is increased to 83
+Current Accumulated AeroScore = 7178.89
+Layout: AxlesNum = (# of Well) * 2 + 2
+Output >> TTAX	653182	Q3	53	0	0%	EMPTY
+Number of slot is increased to 84
+Load Matched:
+--> Unit #87 between [AxleTimeStamp: 290.9064, 293.355]
+Layout: AxlesNum = (# of Well) * 2 + 2
+Load fit as Trailer.
+Raw CargoLength = 105.15
+CargoLength = 57
+Output >> TTAX	653182	Q4	53	57	100.00%
+Number of slot is increased to 85
+Current Accumulated AeroScore = 7278.89
+Load Matched:
+--> Unit #88 between [AxleTimeStamp: 293.6306, 295.9541]
+Load fit as Trailer.
+Raw CargoLength = 47.0299999999997
+CargoLength = 53
+Output >> TTAX	653182	Q5	53	53	100.00%
+Number of slot is increased to 86
+Current Accumulated AeroScore = 7378.89
